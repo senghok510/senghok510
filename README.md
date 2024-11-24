@@ -1,8 +1,14 @@
-Hello :) Welcome to my profile. 
-I am Hok Seng. I am currently studying at Ecole polytechnique in France. So, basically, this github profile is created to share all of my past
-project and some interesting courses that i have taken. I hope you could get benifits from it. 
+# 👋 Hello, Welcome to My Profile!
 
-<!---
-senghok510/senghok510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **Hok Seng**, currently studying at **École Polytechnique** in France.  
+
+This GitHub profile serves as a place to share:  
+- All of my **past projects** 🛠️  
+- Some **interesting courses** I've taken 📚  
+
+I hope you find something useful or inspiring here! Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or suggestions.  
+
+---
+
+✨ **Thank you for visiting my profile!** ✨  
+
